@@ -11,17 +11,46 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ayodhyag&style=flat-square&color=blue" alt=""/>
+
+  
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
+  Data Science Enthusiastic!! <img src= "https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="30" />
+
+ - :telescope: I am currently learning python, machine learning and deep learning.
+ - :seedling: Exploring new cutting-edge development of AI.
+ - :mailbox: How to reach me: ayogunathilaka25@gmail.com
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayodhyag&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayodhyag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-- 👋 Hi, I’m Ayodhya Gunathilaka
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Computer Science at the University of Sri Jayewardenepura
-- 📫 How to reach me ayogunathilaka25@gmail.com
-- 😄 Pronouns: she/her
 
 <!---
 ayodhyag/ayodhyag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
