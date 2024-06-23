@@ -21,7 +21,7 @@
 
   Data Science Enthusiastic!! <img src= "https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="30" />
 
- - :telescope: I am currently learning python, machine learning and deep learning.
+ - :telescope: I am currently learning Python, machine learning, and deep learning.
  - :seedling: Exploring new cutting-edge development of AI.
  - :mailbox: How to reach me: ayogunathilaka25@gmail.com
 
@@ -31,6 +31,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40"/>&nbsp;
